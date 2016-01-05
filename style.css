@@ -5,13 +5,16 @@
 .year {
 	position: fixed;
 	color: white;
-	background-color: black;
+	border-radius: 3px;
+	background-color: rgba(0, 0, 0, 0.77);
 	bottom: 50px;
 	left: 70px;
 	z-index: 3;
 	font-family: arial, sans-serif;
 	font-size: 46px;
 	width: 200px;
+	text-align: center;
+	padding: 10px 0;
 }
 
 div.cartodb-timeslider p {
